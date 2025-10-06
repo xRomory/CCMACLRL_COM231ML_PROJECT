@@ -1,0 +1,51 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (optional: comment out if you want datasets tracked)
+*.tsv
+*.json
+*.db
+*.sqlite
+*.sqlite3
+
+# Large files (optional - you may whitelist important datasets later)
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.parquet
+
+# Jupyter notebook hidden output
+*.nbconvert.ipynb
+
+# Misc
+*.bak
