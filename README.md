@@ -48,6 +48,13 @@ This study contributes to the growing field of **multilingual fake news detectio
 
 ---
 
+## Datasets
+
+- Kaggle (English Dataset): https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+- Hugging Face (Filipino Dataset): https://huggingface.co/datasets/jcblaise/fake_news_filipino
+
+---
+
 ## Keywords
 `Fake News Detection` · `Machine Learning` · `Cross-Linguistic Evaluation` · `Language Mismatch` · `Filipino Dataset` · `SVM` · `Naive Bayes` · `Logistic Regression` · `Random Forest`
 
